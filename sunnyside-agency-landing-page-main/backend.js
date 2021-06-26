@@ -9,7 +9,7 @@ if( document.getElementById('mobile-info').style.display == 'none') {
 
 else{
 
-    console.log('my balls')
+
 
     document.getElementById('mobile-info').style.display = 'none'
 
